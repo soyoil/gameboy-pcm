@@ -1,0 +1,5 @@
+.vscode/
+*.bin
+*.wav
+*.gb
+out
