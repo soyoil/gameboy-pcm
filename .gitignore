@@ -2,4 +2,5 @@
 *.bin
 *.wav
 *.gb
-out
+out*
+.DS_Store
